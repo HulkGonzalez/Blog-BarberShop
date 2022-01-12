@@ -1,0 +1,17 @@
+.sect__pagination {
+    background-color: $platinum;
+    height: 10rem;
+}
+
+.nav__pagination ul, li {
+    color: $eerie-black;
+}
+
+.page-link {
+    color: $eerie-black;
+}
+
+.page-link:hover {
+    background-color: $nickel;
+    color: $white;
+}

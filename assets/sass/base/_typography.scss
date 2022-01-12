@@ -1,4 +1,34 @@
-body {
+h1 {
     font-family: $playfair;
-    font-family: $roboto;
+    font-style: italic;
+    font-weight: $playfair-italic;
+    position: relative;
+    text-align: center;
+    padding: 20% 0% 0% 0%;
+    color: $white;
+ }
+
+h2 {
+    font-family: $playfair;
+    font-style: italic;
+    font-weight: $playfair-italic;
 }
+
+h3 {
+    font-family: $roboto;
+    font-weight: $roboto-regular;
+    color:$ruddy-pink;
+}
+
+ h4 {
+    font-family: $roboto;
+    font-weight: $roboto-regular;
+}
+
+h5 {
+    font-family: $roboto;
+    font-weight: $roboto-regular;
+
+
+}
+

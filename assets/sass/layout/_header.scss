@@ -1,20 +1,17 @@
-h1 {
-   font-family: $playfair;
-   font-size: 4rem;
-   font-weight: $playfair-italic ;
-
-   color: white;
-   position: absolute;
-   text-align: center;
-   top: 40%;
-   left: 30%;
-}
-
-
 .header {
    background-image: url('.././img/post-image.jpg');
    background-repeat: no-repeat;
    background-size: cover;
    background-position: center ;
-   height: 600px;
+   height: 100vh;
+   max-width: 100%;
 }
+
+
+
+
+
+
+
+
+
